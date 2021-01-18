@@ -1,4 +1,4 @@
-//2747_�Ǻ���ġ ��
+//2747_ÇÇº¸³ªÄ¡ ¼ö
 
 #define _CRT_SECURE_NO_WARNINGS
 #define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS
